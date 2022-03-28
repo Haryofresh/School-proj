@@ -404,13 +404,19 @@ p
 {
     opacity: 0.5;
 }
-.copyright a
-{
-    color: #fff;   
-}
 .toggle
 {
     display: none;
+}
+footer
+{
+    background: #000;
+    text-align: center;
+    padding: 10px 10px 50px 10px;
+}
+footer a
+{
+    text-decoration: none;
 }
 @media (max-width: 992px)
 {
